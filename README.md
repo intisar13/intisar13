@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Samin Intisar</h1>
 <h3 align="center">🚀 Passionate about **Machine Learning** and **Deep Learning**, I’m actively working towards building a strong career as a **Data Scientist**. This repository serves as a showcase of my learning journey, hands-on projects, and experiments in the world of AI and data.</h3>
 
-- 🌱 I’m currently learning **NLP**
+- 🌱 I’m currently studying at **North South University**
 
 - 📫 How to reach me **intisar07106@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
