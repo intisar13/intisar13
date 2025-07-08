@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samin Intisar</h1>
-<h3 align="center">🚀 Passionate about **Machine Learning** and **Deep Learning**, I’m actively working towards building a strong career as a **Data Scientist**. This repository serves as a showcase of my learning journey, hands-on projects, and experiments in the world of AI and data.</h3>
+<h3 align="center">🚀 Fueled by a passion for Machine Learning and Deep Learning, I’m dedicated to carving out a career as a Data Scientist. Alongside this, I’m exploring frontend development, building engaging and responsive web applications with HTML, CSS, JavaScript, and ReactJS. As a beginner in web development, I’m excited to blend my AI expertise with user-friendly interfaces to create impactful projects. This repository showcases my learning journey, featuring hands-on ML/DL experiments, data-driven projects, and early web development efforts, all reflecting my commitment to growth in both AI and web technologies.</h3>
 
 - 🌱 I’m currently studying at **North South University**
 
